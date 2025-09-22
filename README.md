@@ -31,10 +31,4 @@ It combines **web scraping, data analysis, and survey insights** to assess priva
 - **25% of government websites** used third-party cookies (compliance concern).  
 - **Safari & Brave** provide stricter privacy controls vs **Chrome & Edge**.  
 
-- Cookie category distribution:  
-  ![Cookie Distribution](./figures/cookie_distribution.png)  
-
-- Survey results on user awareness:  
-  ![Survey Results](./figures/survey_results.png)  
-
 ---
