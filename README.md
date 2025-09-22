@@ -3,7 +3,7 @@
 This project investigates how **Irish websites use cookies**, compares **browser-level cookie management**, and evaluates **GDPR compliance and user awareness**.  
 It combines **web scraping, data analysis, and survey insights** to assess privacy implications and propose compliance recommendations.  
 
-📄 Full thesis: [Analyzing_Browser_Specific_Cookie_Functionalities.pdf](./thesis.pdf)  
+📄 Full thesis: [Analyzing_Browser_Specific_Cookie_Functionalities.pdf](./Analyzing_Browser_Specific_Cookie_Functionalities.pdf)  
 
 ---
 
